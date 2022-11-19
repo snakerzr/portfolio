@@ -1,0 +1,20 @@
+# All csv, txt
+*.csv
+*.txt
+*.env
+
+# All final ipynb
+final.ipynb
+
+# All temp folders
+temp/
+
+# ipynb checkpoints folders
+.ipynb_checkpoints/
+
+# catboost tech files
+catboost_info/
+
+# any data folders
+data/
+
